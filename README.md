@@ -9,7 +9,7 @@ Hello World-Hello World programs are traditionally used to demonstrate how the c
 Calculator-Calculator is a program that help us to enable various arithematic opertations like addition,subtraction,divison and multiplication.
 ## Code-
 1)-
-//sharvari murade
+```//sharvari murade
 //23070123088
 //entc b1
 
@@ -19,7 +19,7 @@ using namespace std;
 int main(){
     cout<<"Hello World";
     return 0;
-}
+}```
 ### Output-
 
 
