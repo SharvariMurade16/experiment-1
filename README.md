@@ -22,6 +22,8 @@ int main(){
 }
 ### Output-
 ![4F0FC88C-B862-4A6E-BF14-00D14F6D2F47](https://github.com/user-attachments/assets/db34ee26-a006-4b0a-977a-28b65e20860e)
+
+
 2)-
 //sharvari murade
 //23070123088
@@ -29,6 +31,7 @@ int main(){
 
 #include <iostream>
 using namespace std;
+
 
 int main() {
   int a,b;
@@ -49,6 +52,8 @@ int main() {
 }
 
 
+###Output-
 
+![040C8620-5776-47B4-93AA-4321A2A71660](https://github.com/user-attachments/assets/614bb4d2-7c23-4dd9-8195-0f34f6fb4867)
 
 
