@@ -8,8 +8,8 @@ We study about vs code, how to download and install it and use it for programmin
 Hello World-Hello World programs are traditionally used to demonstrate how the coding process works as well as to ensure that a language or system is working properly.
 Calculator-Calculator is a program that help us to enable various arithematic opertations like addition,subtraction,divison and multiplication.
 ## Code-
-1)-
-```//sharvari murade
+```1)-
+//sharvari murade
 //23070123088
 //entc b1
 
@@ -25,7 +25,7 @@ int main(){
 
 
 2)-
-```//sharvari murade
+//sharvari murade
 //23070123088
 //entc b1
 
