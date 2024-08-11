@@ -19,13 +19,13 @@ using namespace std;
 int main(){
     cout<<"Hello World";
     return 0;
-}```
+}
 ### Output-
 
 
 
 2)-
-//sharvari murade
+```//sharvari murade
 //23070123088
 //entc b1
 
