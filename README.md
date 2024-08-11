@@ -23,7 +23,7 @@ int main(){
 }
 ```
 ### Output-
-
+![4F0FC88C-B862-4A6E-BF14-00D14F6D2F47](https://github.com/user-attachments/assets/682f3ef6-8990-42b9-b62a-f67b838c804f)
 
 
 2)-
@@ -56,7 +56,4 @@ int main() {
 ```
 
 ### Output-
-
-
-
-
+![040C8620-5776-47B4-93AA-4321A2A71660](https://github.com/user-attachments/assets/d815e959-3ccc-4d83-b7ff-e6865ce3d7ba)
